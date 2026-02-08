@@ -1,0 +1,5 @@
+key,type,encoding,value
+storage,namespace,,
+boot_count,data,i32,123
+my_str,data,string,boot_count is 123 !
+
